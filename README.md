@@ -3,5 +3,5 @@
 ### Summary
 
 My resume I made using plain HTML5 & CSS.
-thongocxd.github.io
+[thongocxd.github.io](https://thongocxd.github.io/)
 
