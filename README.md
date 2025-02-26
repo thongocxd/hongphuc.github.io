@@ -13,6 +13,6 @@ My resume I made using plain HTML5 & CSS.
 - 💡 **Sở thích:** Machine Learning, Web Development
 
 ## 📊 Thống kê GitHub:
-![Your GitHub Stats]([thongocxd.github.io](https://thongocxd.github.io/))
+![Your GitHub Stats](thongocxd.github.io](https://thongocxd.github.io/)
 
 
